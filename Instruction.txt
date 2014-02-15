@@ -1,0 +1,25 @@
+﻿Load and start the project ( for an example : in eclipse )
+Enter the input file with data to read.
+( you can find the example inputs at ..\Iteco-Zoo\src\input\example.txt )
+Check the console for the result
+
+Tasks:
+Create a program, that would fit the logic of a zoo. The zoo has animals. 
+Each animal has a type of animal ( Example : Lion )
+Kind (Ex : Mammal)
+Morphological sign ( land / water )
+Is it a predator
+Name
+Age in months
+
+An animal is inputed with a line of text, telling the [type] [name] [age] of the animal
+
+Tasks to solve in the zoo:
+1: Are the predators in the zoo more?
+2: Get Oldest animals and print their names
+3: Get Youngest animals and print their names
+4: Get the group of animals by kind with biggest sum of age
+5: Get the group of animals by morphological sign with smallest sum of age
+6: Get the group of animals by morphological sign with the highest population
+7: Get the group of animals by kind with the smallest smallest population. What are their names?	
+
